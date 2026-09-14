@@ -2,6 +2,10 @@
 
 A full-stack note-taking application built with the MERN stack and TypeScript. ThinkBoard allows users to create, edit, view, and delete notes through a responsive web interface.
 
+## Project Demo
+[Screencast_20260912_123005.webm](https://github.com/user-attachments/assets/7a06568f-88ea-487f-97cb-32a209a643e1)
+
+
 ## Features
 
 * Create new notes
